@@ -5,3 +5,5 @@
   1. pressh window + r ro run menu.
   2. Type sigverif and hit enter 
   3. run the tool 
+
+## 2. 
